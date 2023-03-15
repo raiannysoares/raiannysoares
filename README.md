@@ -8,7 +8,6 @@ Sou uma entusiasta na área de tecnologia, principalmente em Data Science! 📊
 **Sobre mim:**
 
 - 🎓 Graduada em Estatística pela Universidade do Rio Grande do Norte
-- 🐶 Sou apaixonada por dogs (Tenho 2, Fiona e Kiara)
 - 👩‍💻 Sou integrante da comunidade Data Girls
 - 💻 Atualmente estou aprofundando meus estudos e em busca de novas oportunidades
 
